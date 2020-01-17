@@ -1,2 +1,2 @@
 # Tweet-analysis
-Model for classifying tweets.
+NLP model for classifying disaster tweets.
